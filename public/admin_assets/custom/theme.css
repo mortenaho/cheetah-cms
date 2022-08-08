@@ -1,0 +1,18 @@
+.pnotify-center{
+    right: calc(50% - 150px) !important;
+    top:  calc(50% - 150px) !important;
+
+}
+.pnotify-confirm{
+    background: #2f3240 !important;
+   // color: #fff3e0;
+}
+.naw3-row-status{
+    cursor: pointer;
+}
+ ol,ul {
+    list-style: none;
+}
+ .sortable >li:hover{
+     cursor: pointer;
+ }

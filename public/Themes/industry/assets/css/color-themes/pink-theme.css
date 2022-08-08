@@ -1,0 +1,245 @@
+/* Theme Color */
+
+a,
+.theme_color,
+.list-style-one li .icon,
+.social-icon-one li a:hover,
+.list-style-two li .icon,
+.services-block .inner-box .upper-box h3 a:hover,
+.main-header .header-top .top-left ul li span,
+.main-header .info-box .icon-box,
+.footer-lists li a:hover,
+.footer-lists li a:before,
+.news-widget .post .text a:hover,
+.news-widget .post .post-info li .icon,
+.team-block .inner-box .lower-box h3 a,
+.social-icon-two li a:hover,
+.process-block .inner-box .lower-box h3,
+.process-block .inner-box .lower-box h3 a,
+.process-block .inner-box .upper-box .icon-box,
+.services-block-four .inner-box h3 a:hover,
+.welcome-section .content-column .inner-column .text h3,
+.main-header .header-top .top-right .social-nav li a:hover,
+.gallery-section .filters .filter-tabs .filter.active,
+.gallery-section .filters .filter-tabs .filter:hover,
+.testimonial-block .inner-box .author-box .designation,
+.news-block .inner-box .lower-content h3 a:hover,
+.news-block .inner-box .lower-content .post-meta li span,
+.news-block-two .inner-box .content-column h3 a:hover,
+.news-block-two .inner-box .content-column .post-meta li span,
+.header-style-two .nav-outer .outer-box .contact-number .icon,
+.header-style-three .nav-outer .outer-box .contact-number .icon,
+.services-block-two .inner-box .lower-box h3 a:hover,
+.portfolio-item-two .overlay-inner h3 a:hover,
+.portfolio-item-two .overlay-inner .content .tags,
+.testimonial-block-two .inner-box .quote-icon,
+.accordion-box .block .icon-outer,
+.list-style-three li .icon,
+.page-title .page-breadcrumb li a,
+.services-block-three .inner-box h3 a:hover,
+.services-block-four .inner-box:hover .icon-box,
+.testimonial-block-two .inner-box .lower-box .rating,
+.news-block-three .inner-box .lower-content h3 a:hover,
+.time-counter .time-countdown .counter-column,
+.news-block-three .inner-box .lower-content .post-meta li span,
+.default-section .testimonial-column .owl-nav .owl-prev:hover,
+.default-section .testimonial-column .owl-nav .owl-next:hover,
+.accordion-box.style-two .block .acc-btn.active,
+.project-list li.social-icons a:hover,
+.cat-list li.active a, .cat-list li a:hover,
+.sidebar .popular-posts .post a:hover,
+.sidebar .popular-tags a:hover,
+.news-single .inner-box .lower-content .post-meta li span,
+.social-icon-three li a:hover,
+.shop-item .inner-box .lower-content .price,
+.shop-item .inner-box .lower-content .add-cart:hover,
+.shop-item .inner-box .lower-content .rating .fa,
+.shop-item .inner-box .lower-content h3 a:hover,
+.cart-table tbody tr .remove-btn,
+.sidebar-page-container .comments-area .comment-info .comment-time,
+.news-single .inner-box .lower-content .post-share-options .tags a:hover,
+.sidebar .popular-posts .post .post-thumb .overlay-box,
+.accordion-box.style-two .block .acc-btn.active .icon-outer .icon-minus,
+.services-single .services-tabs .tab-btns .tab-btn:hover,
+.services-single .services-tabs .tab-btns .tab-btn.active-btn,
+.range-slider-one .theme-btn:hover,
+.sidebar .related-posts .post .rating .fa,
+.cart-section .totals-table .total .price,
+.checkout-page .default-links li a,
+.product-details .basic-details .details-header .rating,
+.product-details .basic-details .details-header .item-price,
+.sidebar .related-posts .post a, .sidebar .related-posts .post a:hover,
+.subscribe-form-three .form-group input[type="submit"], .subscribe-form-three button,
+.testimonial-block-two .inner-box .lower-box .author-box .author-inner .designation,
+.projects-section .owl-nav .owl-prev:hover, .projects-section .owl-nav .owl-next:hover,
+.services-block-two .inner-box .upper-box .image .overlay-box .overlay-inner .read-more,
+.project-page-section .filters .filter-tabs .filter.active,
+.project-page-section .filters .filter-tabs .filter:hover,
+.order-box ul li span,
+.sidebar-page-container .comments-area .comment .comment-inner .rating,
+.shop-comment-form .rating-box .rating a:hover{
+	color:#F012BE;
+}
+
+.sticky-header .main-menu .navigation > li:hover > a,
+.sticky-header .main-menu .navigation > li.current > a{
+	color:#F012BE !important;
+}
+
+/*Background Color*/
+.btn-style-one,
+.sec-title .separater:before,
+.btn-style-two:hover,
+.scroll-to-top:hover,
+.services-block .inner-box .upper-box .icon,
+.main-menu .navigation > li:before,
+.project-list li .icon,
+.testimonial-section .owl-dots .owl-dot,
+.fact-counter .column .counter-title:before,
+.team-block .inner-box:hover .lower-box,
+.subscribe-form .form-group input[type="submit"],
+.subscribe-form .form-group button,
+.main-footer .footer-bottom,
+.header-style-two .header-top,
+.btn-style-three:hover,
+.subscribe-section:before,
+.services-block-three .inner-box .icon-box,
+.services-section-two .owl-dots .owl-dot,
+.range-slider-one .ui-state-default,
+.range-slider-one .ui-widget-content .ui-state-default,
+.services-block-four .inner-box .icon-box,
+.comming-soon .content .content-inner .logo:after,
+.process-block .inner-box:hover .upper-box .icon-box,
+.process-block .inner-box .upper-box .icon-box .block-number,
+.accordion-box .block .acc-btn.active .icon-outer .icon-minus,
+.services-block-two .inner-box .upper-box .image .icon-box,
+.services-block .inner-box .lower-box .image .overlay-box .link-btn,
+.main-header .header-lower .outer-box .advisor-box .advisor-btn span,
+.comming-soon .emailed-form .form-group input[type="submit"],
+.comming-soon .emailed-form button,
+.styled-pagination li.prev a:hover,
+.styled-pagination li.next a:hover,
+.blog-cat li a:after,
+.brochure-box:hover,
+.cart-section .coupon-btn,
+.cart-section .cart-options .cart-btn:hover,
+.cart-section .cart-options .cart-btn,
+.sidebar-title .separater:after,
+.cart-section .coupon-btn:hover,
+.shipping-form button,
+.shipping-form button:hover,
+.cart-section .totals-table .proceed-btn,
+.cart-section .totals-table .proceed-btn:hover,
+.sidebar .search-box .form-group button,
+.ui-state-active, .ui-widget-content .ui-state-active,
+.shop-item .inner-box .image .overlay-box .cart-option li a,
+.sidebar-page-container .comments-area .comment .comment-reply,
+.shop-single .product-details .prod-tabs .tab-btns .tab-btn:hover,
+.shop-single .product-details .prod-tabs .tab-btns .tab-btn.active-btn{
+	background-color:#F012BE;
+}
+
+/*Border Color*/
+
+.btn-style-one,
+.btn-style-two:hover,
+.main-menu .navigation > li > ul,
+.list-style-two li .icon,
+.btn-style-three:hover,
+.brochure-box:hover,
+.portfolio-item-two .overlay-inner,
+.main-menu .navigation > li > ul > li > ul,
+.projects-section .owl-nav .owl-prev:hover,
+.projects-section .owl-nav .owl-next:hover,
+.process-block .inner-box:hover .upper-box .icon-box,
+.default-section .testimonial-column .owl-nav .owl-prev:hover,
+.default-section .testimonial-column .owl-nav .owl-next:hover,
+.default-form .form-group input[type="text"]:focus,
+.default-form .form-group input[type="password"]:focus,
+.default-form .form-group input[type="tel"]:focus,
+.default-form .form-group input[type="email"]:focus,
+.default-form .form-group select:focus,
+.default-form .form-group textarea:focus,
+.list-style-three li .icon,
+.styled-pagination li.prev a:hover,
+.styled-pagination li.next a:hover,
+.sidebar-page-container .comments-area .comment-box:hover,
+.comment-form .form-group input[type="text"]:focus,
+.comment-form .form-group input[type="password"]:focus,
+.comment-form .form-group input[type="tel"]:focus,
+.comment-form .form-group input[type="email"]:focus,
+.comment-form .form-group select:focus,
+.comment-form .form-group textarea:focus,
+.range-slider-one .ui-state-default,
+.range-slider-one .ui-widget-content .ui-state-default,
+.shop-comment-form .form-group input[type="text"]:focus,
+.shop-comment-form .form-group input[type="password"]:focus,
+.shop-comment-form .form-group input[type="tel"]:focus,
+.shop-comment-form .form-group input[type="email"]:focus,
+.shop-comment-form .form-group select:focus,
+.shop-comment-form .form-group textarea:focus,
+.shipping-form .form-group input[type="text"]:focus,
+.shipping-form .form-group input[type="password"]:focus,
+.shipping-form .form-group input[type="tel"]:focus,
+.shipping-form .form-group input[type="email"]:focus,
+.shipping-form .form-group select:focus,
+.shipping-form .form-group textarea:focus,
+.ui-state-active, .ui-widget-content .ui-state-active,
+.checkout-form input:focus, .checkout-form select:focus,
+.checkout-form textarea:focus,
+.login-form .form-group input[type="text"]:focus,
+.login-form .form-group input[type="password"]:focus,
+.login-form .form-group input[type="tel"]:focus,
+.login-form .form-group input[type="email"]:focus,
+.login-form .form-group select:focus,
+.login-form .form-group textarea:focus{
+	border-color:#F012BE;
+}
+
+.subscribe-section .title-column:after,
+.header-style-two .main-menu .navigation > li > a:after,
+.main-menu .navigation > li:after{
+	border-bottom-color:#F012BE;
+}
+
+.subscribe-section .title-column:after{
+	border-left-color:#F012BE;
+}
+
+.subscribe-section .title-column:after{
+	
+}
+
+/*RGBA Color Dark*/
+
+.default-portfolio-item .overlay-box,
+.fluid-section-one .title-column:before{
+	background-color:rgba(240,18,190,0.80);
+}
+
+@media only screen and (max-width: 767px){
+	
+	.main-menu .navbar-header .navbar-toggle{
+		border-color:#F012BE;
+	}
+	
+	.main-menu .navbar-header .navbar-toggle,
+	.main-menu .navbar-collapse > .navigation,
+	.main-menu .navbar-collapse > .navigation > li > ul,
+	.main-menu .navbar-collapse > .navigation > li > ul > li > ul,
+	.main-menu .navbar-collapse > .navigation > li > a,
+	.main-menu .navbar-collapse > .navigation > li > ul > li > a,
+	.main-menu .navbar-collapse > .navigation > li > ul > li > ul > li > a,
+	.main-menu .navbar-collapse > .navigation > li > a:hover,
+	.main-menu .navbar-collapse > .navigation > li > a:active,
+	.main-menu .navbar-collapse > .navigation > li > a:focus,
+	.main-menu .navbar-collapse > .navigation > li:hover > a,
+	.main-menu .navbar-collapse > .navigation > li > ul > li:hover > a,
+	.main-menu .navbar-collapse > .navigation > li > ul > li > ul > li:hover > a,
+	.main-menu .navbar-collapse > .navigation > li.current > a,
+	.main-menu .navbar-collapse > .navigation > li.current-menu-item > a,
+	.header-style-two.inner-header .main-menu .navigation > li > a{
+		background-color:#F012BE;
+	}
+	
+}

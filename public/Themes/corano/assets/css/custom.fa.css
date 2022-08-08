@@ -1,0 +1,126 @@
+* {
+    text-align: right;
+}
+
+.widget-title {
+    font-family: 'iransans';
+}
+
+.language {
+    margin-left: 20px;
+    direction: rtl;
+}
+
+.language .dropdown-list {
+    direction: rtl;
+}
+
+.main-menu-area {
+    direction: rtl;
+}
+
+.policy-item {
+    direction: rtl;
+}
+
+.hero-slider-content {
+    direction: rtl;
+}
+
+.welcome-message {
+    float: left;
+}
+
+.header-top-settings {
+    direction: rtl;
+    float: right;
+}
+
+.mobile-menu {
+    margin-left: 30px;
+}
+
+.btn-close-off-canvas {
+    left: 100%;
+}
+
+.footer-widget-area {
+    direction: rtl;
+}
+
+.section-title .sub-title {
+    color: #ffffff;
+}
+
+.banner-content_style2 .banner-text3 a {
+    color: #ffffff;
+}
+
+.product-item {
+    height: 100%;
+}
+.product-item a {
+   cursor:pointer;
+    text-align: center;
+}
+.product-item a  span{
+    cursor:pointer;
+    text-align: center;
+}
+.brand-item a img {
+    max-height: 100px;
+}
+
+.blog-thumb {
+    /*height: 200px;*/
+}
+
+.blog-title {
+    line-height: 1.4;
+    font-size: 15px;
+}
+
+.product-thumb a img{
+    /*height: 180px;*/
+}
+.section-title{
+    width: 100%;
+    text-align: center !important;
+
+}
+.section-title p.sub-title-2{
+    color: #c29958 !important;
+
+}
+
+.breadcrumb {
+    direction: rtl;
+}
+
+.blog-details-post{
+    direction: rtl;
+}
+
+.recent-post-item {
+   direction: rtl;
+}
+
+ .custom-product-thumb{
+    height: 200px;overflow: hidden;
+}
+ .contact-info{
+     direction: rtl;
+     text-align: right;
+ }
+.contact-message{
+    direction: rtl;
+    text-align: right;
+}
+
+.error{
+    color:red;
+}
+
+textarea{
+  color: #000;
+}

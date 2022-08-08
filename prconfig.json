@@ -1,0 +1,10 @@
+{
+    "plugin":[
+           { "name": "product","link": "/product","title": "محصولات","is_active": true,"icon": ""},
+           { "name": "service","link": "/service","title": "خدمات","is_active": true,"icon": ""},
+           { "name": "portfolio","link": "/portfolio","title": "نمونه کار","is_active": true,"icon": ""},
+           { "name": "HMAds","link": "/HMAds","title": "تبلیغات همگروه","is_active": true,"icon": ""},
+           { "name": "HMReportage","link": "/HMReportage","title": "رپرتاژ همگروه","is_active": true,"icon": ""},
+           { "name": "HMPost","link": "/HMPost","title": "نوشته های همگروه","is_active": true,"icon": ""}
+    ]
+}

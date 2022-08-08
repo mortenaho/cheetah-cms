@@ -1,0 +1,28 @@
+.owl-carousel.owl-loaded {
+    display: block;
+    direction: ltr !important;
+}
+
+.post-title a{
+    font-family: iransans;
+    font-size: 16px;
+    font-weight: bold;
+    line-height: normal;
+}
+.clients-modern{
+    text-align: center;
+}
+.clients-modern img{
+    height: 100px !important;
+    width: auto !important;
+   padding: 8px;
+}
+
+.finarc-navbar-static .finarc-nav-item {
+    display: block !important;
+}
+
+
+
+
+
